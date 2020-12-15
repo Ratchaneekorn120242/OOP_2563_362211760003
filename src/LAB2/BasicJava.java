@@ -13,6 +13,7 @@ public class BasicJava {
 
         number =number * 100;
         System.out.println(number);
+        System.out.println(number);
 
     }  //main
 
