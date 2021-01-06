@@ -11,8 +11,6 @@ public class Exercise_STD_Profile {
 
 
 
-
-
         System.out.print("ชือ-สกุล :");
         String std_name = scanner.nextLine();
 
