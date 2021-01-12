@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7f5863b-301a-4469-97e1-70fb2947268c" name="Default Changelist" comment="ex" />
+    <list default="true" id="b7f5863b-301a-4469-97e1-70fb2947268c" name="Default Changelist" comment="ex4">
+      <change afterPath="$PROJECT_DIR$/src/LAB4/EX_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB4/eX_login_system.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +24,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="5d16fcb0-de56-40aa-932c-3ca761bb8c32" />
-  </component>
   <component name="ProjectId" id="1mc3E7Fqk8UJ8L5MTYcHBeO0EHb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,35 +38,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.ex_method">
-    <configuration name="ex_do_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB3.ex_do_while" />
-      <module name="OOP_2563_362211760003" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LAB3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex_for2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB3.ex_for2" />
-      <module name="OOP_2563_362211760003" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LAB3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB4.ex_method" />
+  <component name="RunManager" selected="Application.ex_array2D">
+    <configuration name="EX_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB4.EX_1" />
       <module name="OOP_2563_362211760003" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_nested_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB3.ex_nested_loop" />
+    <configuration name="eX_login_system" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB4.eX_login_system" />
       <module name="OOP_2563_362211760003" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LAB3.*" />
+          <option name="PATTERN" value="LAB4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +65,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB3.ex_while" />
+    <configuration name="ex_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB5.ex_array" />
       <module name="OOP_2563_362211760003" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LAB3.*" />
+          <option name="PATTERN" value="LAB5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB5.ex_array2" />
+      <module name="OOP_2563_362211760003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB5.ex_array2D" />
+      <module name="OOP_2563_362211760003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ex_method" />
-        <item itemvalue="Application.ex_nested_loop" />
-        <item itemvalue="Application.ex_do_while" />
-        <item itemvalue="Application.ex_while" />
-        <item itemvalue="Application.ex_for2" />
+        <item itemvalue="Application.ex_array2D" />
+        <item itemvalue="Application.EX_1" />
+        <item itemvalue="Application.ex_array2" />
+        <item itemvalue="Application.ex_array" />
+        <item itemvalue="Application.eX_login_system" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610270411468</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ex4">
+      <created>1610270686634</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610270686634</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +213,8 @@
     <MESSAGE value="Home" />
     <MESSAGE value="Home1" />
     <MESSAGE value="ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex" />
+    <MESSAGE value="ex4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
