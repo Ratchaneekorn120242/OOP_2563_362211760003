@@ -13,6 +13,7 @@ public class StudentApp {
 
         std1.introduce();
 
+
         Student std2 = new Student();
         std2.name= "pla";
         std2.age= 22;

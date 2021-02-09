@@ -22,6 +22,7 @@ public class Student {
 
   }
     public void changeFaculty(String newfac){
+
         fuculty = newfac;
     }
     }
