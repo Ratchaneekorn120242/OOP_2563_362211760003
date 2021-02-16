@@ -5,9 +5,15 @@ public class car {
     private String id;
     private String color;
     private String brand;
-
+    //constructors
     public car() {
 
+    }
+
+    public car(String id, String color, String brand) {
+        this.id = id;
+        this.color = color;
+        this.brand = brand;
     }
 
     public String getId() {
