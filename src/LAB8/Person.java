@@ -75,4 +75,9 @@ public class Person {
         this.tel = tel;
 
     }
+
+    public  void introduce(){
+        System.out.println("my name is +"+name);
+        System.out.println("I am"+age+"year ola.");
+    }
 }//class
